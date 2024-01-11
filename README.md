@@ -1,5 +1,3 @@
-# csv-file-merge
-
 # CSV File Merger
 
 This simple Bash script allows you to merge multiple CSV files located in a specified folder into a single CSV file. The merged file will contain the headers from the first CSV file, followed by the data from all the CSV files in the specified folder (excluding headers).
